@@ -19,17 +19,17 @@ export default {
     {
       name: "Data",
       url: "/data",
-      icon: "icon-puzzle",
+      icon: "fa fa-database",
       children: [
         {
           name: "Add Data",
           url: "/data/add-data",
-          icon: "icon-puzzle"
+          icon: "fa fa-plus"
         },
         {
           name: "All Data",
           url: "/data/all-data",
-          icon: "icon-puzzle"
+          icon: "fa fa-list"
         }
       ]
     }
